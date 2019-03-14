@@ -1,3 +1,4 @@
+2019-03-14
 # AdversarialNetsPapers
 The classic about Generative Adversarial Networks
 
